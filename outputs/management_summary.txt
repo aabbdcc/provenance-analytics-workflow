@@ -1,0 +1,8 @@
+Workflow comparison summary
+----------------------------------------
+Overall completion rate moved from 48.00% to 45.43% (-2.57%).
+Average time spent moved from 5.98 to 5.72 hours (-0.26).
+The strongest country-level decline is observed in Germany (-21.35%).
+The strongest department-level decline is observed in Sales Training West (-18.82%).
+The strongest course-level decline is observed in Azure Basics (-12.53%).
+These results are associated with comparison run: run_compare_v1_v2.

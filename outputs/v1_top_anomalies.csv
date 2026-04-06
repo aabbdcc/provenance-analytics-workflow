@@ -1,0 +1,4 @@
+dimension,entity,issue_type,completion_rate,completion_gap_vs_overall,missing_hours_ratio
+country,Netherlands,lowest_completion_rate,0.40298507462686567,-0.07701492537313431,0.014925373134328358
+department,Operations Academy,lowest_completion_rate,0.3684210526315789,-0.11157894736842106,0.08771929824561403
+course,Python for Business,lowest_completion_rate,0.3404255319148936,-0.13957446808510637,0.06382978723404255

@@ -1,0 +1,104 @@
+{
+  "run_id": "run_compare_v1_v2",
+  "timestamp": "2026-04-07T02:06:21",
+  "workflow_name": "learning_reporting_comparison",
+  "workflow_version": "v1.0",
+  "dataset_version": "v1_vs_v2",
+  "input_files": [
+    "v1_country_metrics.csv",
+    "v2_country_metrics.csv",
+    "v1_department_metrics.csv",
+    "v2_department_metrics.csv",
+    "v1_course_metrics.csv",
+    "v2_course_metrics.csv"
+  ],
+  "steps": [
+    {
+      "step_name": "compare_country_metrics",
+      "step_type": "comparison",
+      "timestamp": "2026-04-07T02:06:21",
+      "input_files": [
+        "v1_country_metrics.csv",
+        "v2_country_metrics.csv"
+      ],
+      "output_files": [
+        "compare_country_metrics.csv"
+      ],
+      "parameters": {
+        "key_col": "country"
+      },
+      "row_count_in": 10,
+      "row_count_out": 5,
+      "observations": {
+        "largest_country_decline": "Germany",
+        "largest_country_completion_rate_delta": -0.2134920634920635
+      }
+    },
+    {
+      "step_name": "compare_department_metrics",
+      "step_type": "comparison",
+      "timestamp": "2026-04-07T02:06:21",
+      "input_files": [
+        "v1_department_metrics.csv",
+        "v2_department_metrics.csv"
+      ],
+      "output_files": [
+        "compare_department_metrics.csv"
+      ],
+      "parameters": {
+        "key_col": "department"
+      },
+      "row_count_in": 12,
+      "row_count_out": 6,
+      "observations": {
+        "largest_department_decline": "Sales Training West",
+        "largest_department_completion_rate_delta": -0.18823529411764706
+      }
+    },
+    {
+      "step_name": "compare_course_metrics",
+      "step_type": "comparison",
+      "timestamp": "2026-04-07T02:06:21",
+      "input_files": [
+        "v1_course_metrics.csv",
+        "v2_course_metrics.csv"
+      ],
+      "output_files": [
+        "compare_course_metrics.csv"
+      ],
+      "parameters": {
+        "key_col": "course_name"
+      },
+      "row_count_in": 12,
+      "row_count_out": 6,
+      "observations": {
+        "largest_course_decline": "Azure Basics",
+        "largest_course_completion_rate_delta": -0.12533936651583716
+      }
+    },
+    {
+      "step_name": "summarize_comparison_observations",
+      "step_type": "inspection",
+      "timestamp": "2026-04-07T02:06:21",
+      "input_files": [
+        "compare_country_metrics.csv",
+        "compare_department_metrics.csv",
+        "compare_course_metrics.csv"
+      ],
+      "output_files": [],
+      "parameters": {
+        "sorting_metric": "completion_rate_delta"
+      },
+      "row_count_in": 17,
+      "row_count_out": 3,
+      "observations": {
+        "country_with_strongest_decline": "Germany",
+        "country_decline_value": -0.2134920634920635,
+        "department_with_strongest_decline": "Sales Training West",
+        "department_decline_value": -0.18823529411764706,
+        "course_with_strongest_decline": "Azure Basics",
+        "course_decline_value": -0.12533936651583716
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+dimension,entity,issue_type,completion_rate,completion_gap_vs_overall,missing_hours_ratio
+country,Germany,lowest_completion_rate,0.3142857142857143,-0.14,0.04285714285714286
+department,Leadership Programs,lowest_completion_rate,0.3333333333333333,-0.12095238095238098,0.047619047619047616
+course,Data Storytelling,lowest_completion_rate,0.37254901960784315,-0.08173669467787115,0.11764705882352941

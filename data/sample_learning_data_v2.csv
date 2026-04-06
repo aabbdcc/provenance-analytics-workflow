@@ -1,0 +1,351 @@
+user_id,country,department,course_name,course_category,status,progress_pct,completion_date,time_spent_hours,last_activity_date,enrollment_date,dataset_version
+U1000,Germany,Leadership Programs,Data Storytelling,Analytics,not_started,1,,0.3,2025-11-18,2025-11-16,2026-01-13
+U1001,France,Sales Training East,Leadership 101,Management,completed,100,2025-12-14,10.7,2025-12-11,2025-11-13,2026-01-13
+U1002,France,Sales Training West,Compliance Essentials,Compliance,completed,97,2025-11-17,8.8,2025-11-12,2025-11-03,2026-01-13
+U1003,Netherlands,Operations Academy,Compliance Essentials,Compliance,in_progress,39,,5.3,2026-01-14,2025-12-12,2026-01-13
+U1004,Italy,Leadership Programs,Azure Basics,Cloud,completed,96,2026-01-10,4.0,2026-01-08,2025-12-29,2026-01-13
+U1005,France,Sales Training East,Azure Basics,Cloud,in_progress,46,,4.5,2025-12-15,2025-11-21,2026-01-13
+U1006,Germany,Digital Learning,Azure Basics,Cloud,not_started,4,,1.0,2025-10-04,2025-09-13,2026-01-13
+U1007,Germany,Sales Training West,Data Storytelling,Analytics,in_progress,41,,3.3,2025-12-09,2025-11-26,2026-01-13
+U1008,Spain,Sales Training West,Power BI Fundamentals,Analytics,completed,100,2025-12-12,8.8,2025-12-05,2025-10-27,2026-01-13
+U1009,Italy,Digital Learning,Power BI Fundamentals,Analytics,not_started,14,,1.6,2026-02-03,2025-12-26,2026-01-13
+U1010,Germany,Sales Training West,Data Storytelling,Analytics,not_started,8,,,2026-01-25,2025-12-14,2026-01-13
+U1011,Italy,Digital Learning,Power BI Fundamentals,Analytics,in_progress,70,,5.0,2026-01-23,2025-12-11,2026-01-13
+U1012,Netherlands,Digital Learning,Leadership 101,Management,completed,99,2025-11-14,13.2,2025-11-10,2025-10-27,2026-01-13
+U1013,France,Operations Academy,Power BI Fundamentals,Analytics,completed,97,2025-12-28,4.4,2025-12-25,2025-11-25,2026-01-13
+U1014,Germany,Digital Learning,Power BI Fundamentals,Analytics,not_started,8,,1.9,2025-11-30,2025-10-23,2026-01-13
+U1015,Germany,Sales Training West,Azure Basics,Cloud,in_progress,27,,3.1,2025-10-26,2025-10-16,2026-01-13
+U1016,Netherlands,Sales Training West,Data Storytelling,Analytics,completed,98,2025-10-02,12.4,2025-09-25,2025-09-15,2026-01-13
+U1017,Germany,Sales Training West,Azure Basics,Cloud,not_started,4,,0.2,2025-10-12,2025-09-15,2026-01-13
+U1018,Italy,Sales Training East,Compliance Essentials,Compliance,completed,100,2025-12-09,24.5,2025-11-30,2025-11-11,2026-01-13
+U1019,Netherlands,HR Learning,Azure Basics,Cloud,completed,97,2026-01-03,9.3,2025-12-25,2025-11-11,2026-01-13
+U1020,Spain,Sales Training East,Leadership 101,Management,in_progress,46,,4.0,2025-10-08,2025-09-01,2026-01-13
+U1021,Germany,Sales Training West,Azure Basics,Cloud,not_started,4,,1.0,2025-10-12,2025-09-21,2026-01-13
+U1022,Italy,Leadership Programs,Data Storytelling,Analytics,completed,98,2025-11-26,6.3,2025-11-19,2025-11-09,2026-01-13
+U1023,Netherlands,HR Learning,Compliance Essentials,Compliance,completed,95,2026-01-27,7.2,2026-01-21,2025-12-26,2026-01-13
+U1024,Germany,Operations Academy,Python for Business,Analytics,not_started,10,,1.9,2025-12-14,2025-11-23,2026-01-13
+U1025,Germany,Sales Training West,Python for Business,Analytics,in_progress,45,,3.7,2025-09-26,2025-09-06,2026-01-13
+U1026,Italy,Digital Learning,Python for Business,Analytics,not_started,1,,0.7,2025-10-10,2025-09-27,2026-01-13
+U1027,Italy,HR Learning,Power BI Fundamentals,Analytics,not_started,9,,0.0,2025-09-19,2025-09-02,2026-01-13
+U1028,Italy,Sales Training West,Leadership 101,Management,in_progress,49,,3.6,2025-10-07,2025-09-01,2026-01-13
+U1029,Italy,Sales Training West,Azure Basics,Cloud,completed,100,2025-10-27,7.6,2025-10-26,2025-09-22,2026-01-13
+U1030,France,HR Learning,Power BI Fundamentals,Analytics,completed,99,2025-12-24,5.3,2025-12-23,2025-12-01,2026-01-13
+U1031,France,Digital Learning,Power BI Fundamentals,Analytics,completed,100,2025-11-23,9.2,2025-11-19,2025-11-11,2026-01-13
+U1032,Italy,Sales Training East,Leadership 101,Management,completed,96,2026-01-13,8.0,2026-01-11,2025-12-11,2026-01-13
+U1033,France,HR Learning,Compliance Essentials,Compliance,completed,99,2025-11-20,14.1,2025-11-12,2025-10-17,2026-01-13
+U1034,Germany,HR Learning,Azure Basics,Cloud,not_started,1,,1.4,2025-12-19,2025-12-06,2026-01-13
+U1035,Spain,HR Learning,Data Storytelling,Analytics,in_progress,44,,3.0,2026-01-14,2025-12-23,2026-01-13
+U1036,France,Leadership Programs,Data Storytelling,Analytics,not_started,4,,1.6,2025-10-27,2025-10-27,2026-01-13
+U1037,France,Operations Academy,Data Storytelling,Analytics,completed,95,2026-01-16,17.5,2026-01-07,2025-12-27,2026-01-13
+U1038,Spain,Sales Training West,Compliance Essentials,Compliance,completed,99,2025-12-25,19.6,2025-12-22,2025-11-25,2026-01-13
+U1039,Spain,Digital Learning,Power BI Fundamentals,Analytics,completed,96,2025-10-17,12.4,2025-10-11,2025-09-13,2026-01-13
+U1040,Spain,HR Learning,Azure Basics,Cloud,completed,99,2025-10-09,9.0,2025-10-06,2025-09-26,2026-01-13
+U1041,France,Operations Academy,Power BI Fundamentals,Analytics,not_started,11,,0.1,2025-10-16,2025-09-18,2026-01-13
+U1042,Italy,Digital Learning,Power BI Fundamentals,Analytics,not_started,6,,1.5,2025-11-11,2025-11-02,2026-01-13
+U1043,France,Operations Academy,Python for Business,Analytics,completed,100,2025-11-21,9.9,2025-11-18,2025-10-16,2026-01-13
+U1044,Netherlands,Sales Training West,Leadership 101,Management,completed,98,2025-11-14,10.6,2025-11-13,2025-10-11,2026-01-13
+U1045,Germany,Sales Training West,Compliance Essentials,Compliance,completed,97,2026-01-16,3.8,2026-01-13,2025-12-25,2026-01-13
+U1046,Italy,HR Learning,Azure Basics,Cloud,completed,97,2025-10-18,6.0,2025-10-12,2025-10-06,2026-01-13
+U1047,France,Sales Training West,Python for Business,Analytics,not_started,7,,0.1,2025-10-23,2025-10-12,2026-01-13
+U1048,France,Digital Learning,Azure Basics,Cloud,not_started,2,,1.0,2026-01-07,2025-12-19,2026-01-13
+U1049,France,Leadership Programs,Azure Basics,Cloud,in_progress,58,,1.8,2025-10-09,2025-09-01,2026-01-13
+U1050,Netherlands,Sales Training East,Azure Basics,Cloud,completed,96,2026-02-07,8.1,2026-01-30,2025-12-27,2026-01-13
+U1051,Spain,Sales Training East,Azure Basics,Cloud,in_progress,42,,4.2,2025-11-28,2025-10-19,2026-01-13
+U1052,Netherlands,HR Learning,Leadership 101,Management,completed,95,2025-12-19,8.3,2025-12-18,2025-11-23,2026-01-13
+U1053,Netherlands,HR Learning,Compliance Essentials,Compliance,completed,98,2025-10-08,4.9,2025-10-06,2025-09-05,2026-01-13
+U1054,Germany,Sales Training West,Data Storytelling,Analytics,in_progress,48,,7.0,2025-10-16,2025-09-27,2026-01-13
+U1055,Spain,Operations Academy,Leadership 101,Management,in_progress,39,,5.2,2025-10-22,2025-10-10,2026-01-13
+U1056,Italy,Sales Training East,Python for Business,Analytics,not_started,7,,0.6,2025-10-04,2025-09-09,2026-01-13
+U1057,France,Digital Learning,Power BI Fundamentals,Analytics,in_progress,47,,,2025-10-31,2025-10-31,2026-01-13
+U1058,Netherlands,Sales Training West,Power BI Fundamentals,Analytics,completed,100,2025-12-17,9.5,2025-12-13,2025-12-04,2026-01-13
+U1059,Netherlands,HR Learning,Azure Basics,Cloud,not_started,12,,1.1,2025-11-02,2025-09-26,2026-01-13
+U1060,Netherlands,Operations Academy,Azure Basics,Cloud,in_progress,75,,2.8,2025-11-21,2025-11-07,2026-01-13
+U1061,Italy,Sales Training East,Compliance Essentials,Compliance,in_progress,79,,3.8,2025-10-07,2025-09-05,2026-01-13
+U1062,Germany,Digital Learning,Data Storytelling,Analytics,in_progress,61,,6.2,2025-12-22,2025-11-11,2026-01-13
+U1063,France,Sales Training West,Azure Basics,Cloud,not_started,8,,,2025-11-20,2025-11-04,2026-01-13
+U1064,Germany,Leadership Programs,Leadership 101,Management,completed,95,2025-10-28,5.6,2025-10-27,2025-09-19,2026-01-13
+U1065,France,Sales Training West,Data Storytelling,Analytics,not_started,4,,,2025-12-09,2025-12-07,2026-01-13
+U1066,Germany,HR Learning,Compliance Essentials,Compliance,not_started,3,,1.8,2026-01-04,2025-12-20,2026-01-13
+U1067,France,Sales Training West,Compliance Essentials,Compliance,completed,96,2025-09-14,13.6,2025-09-05,2025-09-05,2026-01-13
+U1068,France,Operations Academy,Azure Basics,Cloud,completed,99,2026-01-19,7.1,2026-01-15,2025-12-08,2026-01-13
+U1069,Netherlands,Sales Training East,Power BI Fundamentals,Analytics,completed,99,2025-11-13,5.4,2025-11-10,2025-11-10,2026-01-13
+U1070,Netherlands,Sales Training West,Power BI Fundamentals,Analytics,not_started,2,,1.8,2025-10-13,2025-10-07,2026-01-13
+U1071,Netherlands,Digital Learning,Compliance Essentials,Compliance,in_progress,22,,7.8,2025-12-30,2025-11-17,2026-01-13
+U1072,Italy,Sales Training East,Azure Basics,Cloud,completed,97,2025-11-22,,2025-11-21,2025-10-17,2026-01-13
+U1073,Netherlands,Digital Learning,Power BI Fundamentals,Analytics,completed,98,2025-10-10,14.2,2025-10-01,2025-09-22,2026-01-13
+U1074,France,Sales Training East,Python for Business,Analytics,not_started,12,,,2026-01-01,2025-12-27,2026-01-13
+U1075,France,Digital Learning,Compliance Essentials,Compliance,not_started,12,,2.0,2025-12-26,2025-11-20,2026-01-13
+U1076,Netherlands,Operations Academy,Python for Business,Analytics,completed,99,2025-11-06,,2025-10-31,2025-10-08,2026-01-13
+U1077,Spain,HR Learning,Leadership 101,Management,not_started,8,,0.8,2025-12-27,2025-11-18,2026-01-13
+U1078,Spain,Operations Academy,Power BI Fundamentals,Analytics,completed,99,2025-10-12,5.3,2025-10-05,2025-09-25,2026-01-13
+U1079,Germany,Digital Learning,Python for Business,Analytics,not_started,6,,0.8,2025-12-07,2025-11-14,2026-01-13
+U1080,Spain,Sales Training East,Azure Basics,Cloud,not_started,10,,1.0,2025-10-19,2025-10-14,2026-01-13
+U1081,France,Leadership Programs,Data Storytelling,Analytics,in_progress,41,,6.5,2025-12-21,2025-11-30,2026-01-13
+U1082,Italy,Leadership Programs,Power BI Fundamentals,Analytics,completed,97,2025-11-28,15.5,2025-11-26,2025-10-19,2026-01-13
+U1083,Germany,HR Learning,Compliance Essentials,Compliance,completed,100,2025-12-08,5.6,2025-12-01,2025-11-22,2026-01-13
+U1084,France,Digital Learning,Leadership 101,Management,completed,98,2025-12-02,5.4,2025-11-25,2025-11-25,2026-01-13
+U1085,Italy,Digital Learning,Leadership 101,Management,completed,99,2025-11-25,15.5,2025-11-21,2025-11-13,2026-01-13
+U1086,Netherlands,HR Learning,Power BI Fundamentals,Analytics,completed,100,2026-01-06,12.3,2025-12-30,2025-12-26,2026-01-13
+U1087,Spain,Digital Learning,Compliance Essentials,Compliance,not_started,9,,0.2,2025-11-04,2025-11-01,2026-01-13
+U1088,Italy,HR Learning,Leadership 101,Management,in_progress,82,,4.0,2025-12-22,2025-11-09,2026-01-13
+U1089,Spain,HR Learning,Data Storytelling,Analytics,in_progress,44,,7.5,2025-10-20,2025-10-19,2026-01-13
+U1090,Germany,Operations Academy,Power BI Fundamentals,Analytics,in_progress,35,,7.1,2025-10-11,2025-09-21,2026-01-13
+U1091,Spain,HR Learning,Power BI Fundamentals,Analytics,completed,97,2025-09-22,20.9,2025-09-15,2025-09-01,2026-01-13
+U1092,Italy,Operations Academy,Data Storytelling,Analytics,not_started,0,,0.2,2025-11-27,2025-10-31,2026-01-13
+U1093,Italy,Operations Academy,Azure Basics,Cloud,completed,97,2025-10-29,9.4,2025-10-28,2025-10-24,2026-01-13
+U1094,Italy,Digital Learning,Azure Basics,Cloud,completed,99,2026-01-04,,2025-12-31,2025-11-22,2026-01-13
+U1095,Italy,Operations Academy,Azure Basics,Cloud,completed,95,2025-12-02,2.0,2025-11-26,2025-11-25,2026-01-13
+U1096,France,Sales Training East,Azure Basics,Cloud,not_started,3,,0.1,2025-10-19,2025-09-12,2026-01-13
+U1097,Germany,Sales Training West,Python for Business,Analytics,in_progress,81,,6.9,2026-01-01,2025-12-07,2026-01-13
+U1098,France,Operations Academy,Power BI Fundamentals,Analytics,completed,100,2025-10-02,6.6,2025-09-30,2025-09-15,2026-01-13
+U1099,Spain,HR Learning,Python for Business,Analytics,in_progress,81,,6.1,2025-10-03,2025-09-03,2026-01-13
+U1100,Italy,Leadership Programs,Python for Business,Analytics,completed,96,2025-11-21,3.6,2025-11-14,2025-10-20,2026-01-13
+U1101,Spain,HR Learning,Leadership 101,Management,completed,98,2025-11-22,11.5,2025-11-14,2025-10-28,2026-01-13
+U1102,Spain,Operations Academy,Data Storytelling,Analytics,completed,100,2026-01-29,4.2,2026-01-21,2025-12-22,2026-01-13
+U1103,Netherlands,Sales Training East,Compliance Essentials,Compliance,completed,97,2025-12-29,10.9,2025-12-24,2025-12-16,2026-01-13
+U1104,Spain,Sales Training West,Leadership 101,Management,in_progress,49,,5.5,2025-10-18,2025-09-13,2026-01-13
+U1105,Italy,Sales Training East,Leadership 101,Management,not_started,5,,1.5,2025-10-29,2025-10-28,2026-01-13
+U1106,Germany,Digital Learning,Azure Basics,Cloud,not_started,7,,0.9,2025-12-20,2025-12-01,2026-01-13
+U1107,France,Sales Training West,Python for Business,Analytics,not_started,7,,1.7,2025-12-08,2025-11-12,2026-01-13
+U1108,Spain,Sales Training West,Power BI Fundamentals,Analytics,completed,99,2025-10-06,8.8,2025-10-01,2025-09-10,2026-01-13
+U1109,France,Leadership Programs,Data Storytelling,Analytics,completed,100,2025-12-29,15.5,2025-12-26,2025-12-26,2026-01-13
+U1110,Spain,HR Learning,Data Storytelling,Analytics,not_started,2,,1.9,2025-11-27,2025-11-08,2026-01-13
+U1111,Germany,Leadership Programs,Azure Basics,Cloud,in_progress,35,,1.8,2025-11-20,2025-10-28,2026-01-13
+U1112,France,HR Learning,Leadership 101,Management,completed,99,2025-11-26,12.1,2025-11-18,2025-11-04,2026-01-13
+U1113,Spain,Sales Training East,Data Storytelling,Analytics,completed,98,2026-01-29,,2026-01-24,2025-12-12,2026-01-13
+U1114,Germany,Sales Training East,Power BI Fundamentals,Analytics,not_started,8,,1.9,2025-12-25,2025-12-18,2026-01-13
+U1115,Netherlands,Sales Training West,Data Storytelling,Analytics,not_started,13,,0.7,2025-09-15,2025-09-06,2026-01-13
+U1116,Germany,Digital Learning,Data Storytelling,Analytics,in_progress,71,,7.2,2026-02-01,2025-12-28,2026-01-13
+U1117,Netherlands,Operations Academy,Compliance Essentials,Compliance,not_started,6,,0.6,2025-10-09,2025-09-04,2026-01-13
+U1118,Italy,Digital Learning,Azure Basics,Cloud,completed,96,2025-11-01,14.1,2025-10-31,2025-10-24,2026-01-13
+U1119,Spain,Operations Academy,Python for Business,Analytics,completed,95,2025-11-30,10.1,2025-11-21,2025-11-04,2026-01-13
+U1120,Spain,Operations Academy,Python for Business,Analytics,completed,98,2026-01-07,12.0,2025-12-30,2025-11-17,2026-01-13
+U1121,Netherlands,Digital Learning,Compliance Essentials,Compliance,completed,95,2025-09-24,5.8,2025-09-17,2025-09-02,2026-01-13
+U1122,Germany,HR Learning,Python for Business,Analytics,completed,95,2025-11-13,13.3,2025-11-09,2025-10-28,2026-01-13
+U1123,Germany,Sales Training East,Leadership 101,Management,not_started,6,,0.5,2025-11-20,2025-11-14,2026-01-13
+U1124,Germany,Leadership Programs,Python for Business,Analytics,in_progress,21,,5.0,2025-09-23,2025-09-10,2026-01-13
+U1125,Germany,Leadership Programs,Power BI Fundamentals,Analytics,not_started,2,,0.1,2025-11-28,2025-11-11,2026-01-13
+U1126,Germany,Operations Academy,Azure Basics,Cloud,completed,95,2025-11-19,7.1,2025-11-13,2025-10-12,2026-01-13
+U1127,France,HR Learning,Data Storytelling,Analytics,not_started,13,,1.1,2025-12-11,2025-11-01,2026-01-13
+U1128,Netherlands,Operations Academy,Compliance Essentials,Compliance,in_progress,46,,,2025-12-23,2025-11-22,2026-01-13
+U1129,Netherlands,Operations Academy,Power BI Fundamentals,Analytics,in_progress,53,,7.2,2025-10-04,2025-09-05,2026-01-13
+U1130,Spain,Operations Academy,Azure Basics,Cloud,not_started,1,,0.6,2025-10-13,2025-09-13,2026-01-13
+U1131,Netherlands,Digital Learning,Python for Business,Analytics,not_started,7,,0.9,2025-12-26,2025-11-27,2026-01-13
+U1132,Netherlands,Sales Training East,Python for Business,Analytics,completed,96,2025-11-15,11.3,2025-11-07,2025-11-07,2026-01-13
+U1133,Italy,Sales Training East,Power BI Fundamentals,Analytics,completed,99,2025-12-02,18.6,2025-11-28,2025-11-07,2026-01-13
+U1134,Italy,Operations Academy,Python for Business,Analytics,completed,98,2025-12-14,3.0,2025-12-10,2025-11-23,2026-01-13
+U1135,Italy,Digital Learning,Power BI Fundamentals,Analytics,completed,95,2026-01-18,,2026-01-14,2025-12-18,2026-01-13
+U1136,Germany,HR Learning,Power BI Fundamentals,Analytics,completed,97,2025-10-14,6.0,2025-10-11,2025-09-11,2026-01-13
+U1137,Spain,Sales Training East,Python for Business,Analytics,not_started,14,,1.5,2025-10-21,2025-09-23,2026-01-13
+U1138,Spain,Operations Academy,Compliance Essentials,Compliance,in_progress,24,,2.1,2025-12-19,2025-11-20,2026-01-13
+U1139,Netherlands,Leadership Programs,Data Storytelling,Analytics,in_progress,41,,3.7,2025-11-11,2025-11-03,2026-01-13
+U1140,Germany,HR Learning,Python for Business,Analytics,in_progress,26,,6.5,2025-12-22,2025-12-16,2026-01-13
+U1141,Italy,Leadership Programs,Leadership 101,Management,in_progress,23,,5.7,2025-10-19,2025-10-14,2026-01-13
+U1142,France,Sales Training East,Compliance Essentials,Compliance,in_progress,25,,8.0,2026-01-28,2025-12-28,2026-01-13
+U1143,Italy,Leadership Programs,Compliance Essentials,Compliance,not_started,1,,0.2,2025-09-23,2025-09-19,2026-01-13
+U1144,Italy,Digital Learning,Python for Business,Analytics,not_started,4,,1.0,2025-11-15,2025-11-11,2026-01-13
+U1145,Italy,Sales Training East,Azure Basics,Cloud,completed,98,2025-10-31,,2025-10-23,2025-10-22,2026-01-13
+U1146,France,Digital Learning,Compliance Essentials,Compliance,in_progress,75,,5.1,2025-11-26,2025-11-25,2026-01-13
+U1147,Germany,HR Learning,Leadership 101,Management,completed,96,2025-11-08,10.4,2025-11-05,2025-10-22,2026-01-13
+U1148,Spain,Digital Learning,Power BI Fundamentals,Analytics,in_progress,53,,5.9,2025-11-13,2025-10-19,2026-01-13
+U1149,Netherlands,Leadership Programs,Power BI Fundamentals,Analytics,completed,96,2025-12-23,7.0,2025-12-20,2025-12-07,2026-01-13
+U1150,France,Sales Training West,Data Storytelling,Analytics,completed,98,2025-12-26,,2025-12-21,2025-12-14,2026-01-13
+U1151,France,Digital Learning,Data Storytelling,Analytics,completed,98,2026-01-05,9.5,2025-12-31,2025-12-09,2026-01-13
+U1152,Germany,Sales Training West,Leadership 101,Management,completed,99,2025-10-11,12.5,2025-10-10,2025-09-05,2026-01-13
+U1153,Netherlands,Operations Academy,Python for Business,Analytics,not_started,10,,0.1,2025-12-15,2025-12-01,2026-01-13
+U1154,Italy,Digital Learning,Data Storytelling,Analytics,in_progress,80,,3.7,2025-11-21,2025-10-17,2026-01-13
+U1155,Germany,Sales Training West,Compliance Essentials,Compliance,completed,99,2026-01-07,20.3,2025-12-29,2025-11-24,2026-01-13
+U1156,Netherlands,HR Learning,Leadership 101,Management,completed,96,2025-11-01,10.4,2025-10-25,2025-10-25,2026-01-13
+U1157,Italy,Sales Training West,Python for Business,Analytics,completed,100,2025-10-27,10.4,2025-10-23,2025-10-06,2026-01-13
+U1158,Italy,Digital Learning,Data Storytelling,Analytics,not_started,1,,0.4,2025-11-17,2025-10-13,2026-01-13
+U1159,Italy,Operations Academy,Compliance Essentials,Compliance,in_progress,39,,6.0,2026-01-14,2025-12-24,2026-01-13
+U1160,Spain,Operations Academy,Compliance Essentials,Compliance,completed,97,2025-11-20,,2025-11-17,2025-10-08,2026-01-13
+U1161,France,Sales Training West,Compliance Essentials,Compliance,in_progress,61,,8.0,2025-10-21,2025-09-29,2026-01-13
+U1162,Italy,Digital Learning,Azure Basics,Cloud,completed,100,2025-12-10,4.6,2025-12-05,2025-11-27,2026-01-13
+U1163,Italy,HR Learning,Compliance Essentials,Compliance,in_progress,78,,3.2,2025-12-10,2025-11-18,2026-01-13
+U1164,Spain,HR Learning,Python for Business,Analytics,completed,99,2025-12-18,4.1,2025-12-16,2025-12-06,2026-01-13
+U1165,France,Operations Academy,Power BI Fundamentals,Analytics,completed,99,2025-10-15,5.7,2025-10-11,2025-09-28,2026-01-13
+U1166,Italy,Sales Training West,Python for Business,Analytics,completed,100,2025-12-05,,2025-11-30,2025-10-24,2026-01-13
+U1167,France,HR Learning,Python for Business,Analytics,completed,98,2026-01-14,14.9,2026-01-11,2025-12-08,2026-01-13
+U1168,Netherlands,Digital Learning,Compliance Essentials,Compliance,completed,96,2026-01-20,15.1,2026-01-17,2025-12-26,2026-01-13
+U1169,Netherlands,Sales Training East,Power BI Fundamentals,Analytics,in_progress,73,,3.9,2025-11-10,2025-11-01,2026-01-13
+U1170,Italy,Operations Academy,Azure Basics,Cloud,completed,100,2025-12-10,,2025-12-04,2025-12-03,2026-01-13
+U1171,Germany,Sales Training East,Azure Basics,Cloud,completed,99,2025-11-04,4.8,2025-10-27,2025-09-21,2026-01-13
+U1172,Italy,Operations Academy,Power BI Fundamentals,Analytics,in_progress,61,,3.2,2025-11-21,2025-10-31,2026-01-13
+U1173,Spain,Leadership Programs,Power BI Fundamentals,Analytics,not_started,1,,1.8,2025-12-09,2025-10-31,2026-01-13
+U1174,Spain,HR Learning,Compliance Essentials,Compliance,completed,95,2025-12-03,13.8,2025-11-28,2025-10-20,2026-01-13
+U1175,Netherlands,Digital Learning,Leadership 101,Management,completed,96,2026-01-09,8.9,2026-01-03,2025-11-28,2026-01-13
+U1176,France,Operations Academy,Leadership 101,Management,completed,95,2025-10-25,6.7,2025-10-21,2025-10-13,2026-01-13
+U1177,France,Sales Training East,Leadership 101,Management,completed,97,2025-12-02,12.7,2025-11-24,2025-11-23,2026-01-13
+U1178,Spain,Digital Learning,Azure Basics,Cloud,not_started,12,,0.1,2025-11-08,2025-10-14,2026-01-13
+U1179,France,Operations Academy,Compliance Essentials,Compliance,completed,97,2025-09-29,7.0,2025-09-27,2025-09-23,2026-01-13
+U1180,Germany,Digital Learning,Power BI Fundamentals,Analytics,not_started,13,,0.1,2026-01-06,2025-12-01,2026-01-13
+U1181,France,Digital Learning,Azure Basics,Cloud,not_started,11,,0.6,2025-11-20,2025-10-20,2026-01-13
+U1182,Netherlands,Sales Training West,Leadership 101,Management,completed,97,2025-11-04,2.7,2025-10-26,2025-10-15,2026-01-13
+U1183,Germany,Digital Learning,Data Storytelling,Analytics,completed,95,2025-12-07,5.3,2025-12-04,2025-11-07,2026-01-13
+U1184,Italy,Sales Training East,Python for Business,Analytics,completed,96,2025-10-31,16.5,2025-10-30,2025-09-19,2026-01-13
+U1185,Italy,HR Learning,Compliance Essentials,Compliance,in_progress,68,,3.0,2025-11-15,2025-11-12,2026-01-13
+U1186,France,Sales Training West,Compliance Essentials,Compliance,in_progress,69,,3.7,2025-12-18,2025-11-22,2026-01-13
+U1187,Netherlands,Digital Learning,Data Storytelling,Analytics,completed,97,2025-10-30,,2025-10-25,2025-09-19,2026-01-13
+U1188,Spain,Digital Learning,Compliance Essentials,Compliance,in_progress,33,,4.9,2025-11-14,2025-10-11,2026-01-13
+U1189,Spain,Operations Academy,Leadership 101,Management,in_progress,26,,5.8,2025-12-25,2025-11-23,2026-01-13
+U1190,Spain,Leadership Programs,Azure Basics,Cloud,not_started,0,,0.9,2025-10-10,2025-09-04,2026-01-13
+U1191,France,Operations Academy,Compliance Essentials,Compliance,in_progress,39,,7.3,2025-11-01,2025-10-29,2026-01-13
+U1192,France,Operations Academy,Data Storytelling,Analytics,not_started,9,,,2026-01-18,2025-12-17,2026-01-13
+U1193,Netherlands,Operations Academy,Power BI Fundamentals,Analytics,completed,99,2025-12-16,7.0,2025-12-08,2025-11-04,2026-01-13
+U1194,Netherlands,Sales Training East,Compliance Essentials,Compliance,completed,97,2025-11-13,13.4,2025-11-08,2025-10-22,2026-01-13
+U1195,Netherlands,Sales Training West,Azure Basics,Cloud,completed,96,2025-10-07,8.4,2025-10-02,2025-10-02,2026-01-13
+U1196,Italy,Operations Academy,Leadership 101,Management,completed,95,2026-01-01,11.2,2025-12-28,2025-12-19,2026-01-13
+U1197,France,HR Learning,Python for Business,Analytics,not_started,8,,2.0,2025-11-01,2025-10-09,2026-01-13
+U1198,Italy,Leadership Programs,Compliance Essentials,Compliance,in_progress,60,,6.5,2025-10-12,2025-10-02,2026-01-13
+U1199,France,Leadership Programs,Azure Basics,Cloud,not_started,14,,0.1,2025-09-28,2025-09-07,2026-01-13
+U1200,Spain,HR Learning,Compliance Essentials,Compliance,completed,98,2025-10-10,1.9,2025-10-05,2025-09-29,2026-01-13
+U1201,Spain,Operations Academy,Compliance Essentials,Compliance,completed,99,2025-10-07,8.4,2025-10-03,2025-09-19,2026-01-13
+U1202,Spain,Sales Training West,Compliance Essentials,Compliance,completed,97,2025-10-20,11.4,2025-10-11,2025-09-06,2026-01-13
+U1203,Germany,HR Learning,Compliance Essentials,Compliance,not_started,2,,,2026-01-09,2025-12-27,2026-01-13
+U1204,France,Sales Training East,Data Storytelling,Analytics,completed,99,2025-11-17,6.9,2025-11-15,2025-11-13,2026-01-13
+U1205,France,Sales Training East,Compliance Essentials,Compliance,completed,100,2025-10-17,21.6,2025-10-14,2025-09-27,2026-01-13
+U1206,Germany,Operations Academy,Python for Business,Analytics,completed,97,2025-11-27,3.1,2025-11-19,2025-11-03,2026-01-13
+U1207,France,HR Learning,Power BI Fundamentals,Analytics,completed,96,2025-12-19,2.4,2025-12-18,2025-11-04,2026-01-13
+U1208,Germany,Sales Training East,Compliance Essentials,Compliance,not_started,11,,1.2,2025-11-20,2025-11-20,2026-01-13
+U1209,Netherlands,Sales Training East,Azure Basics,Cloud,not_started,12,,1.0,2025-12-06,2025-11-03,2026-01-13
+U1210,Netherlands,Operations Academy,Compliance Essentials,Compliance,in_progress,69,,6.1,2025-12-22,2025-11-28,2026-01-13
+U1211,Netherlands,Leadership Programs,Leadership 101,Management,not_started,10,,1.3,2025-10-06,2025-09-16,2026-01-13
+U1212,France,Leadership Programs,Power BI Fundamentals,Analytics,completed,97,2025-12-02,,2025-11-25,2025-11-22,2026-01-13
+U1213,Germany,Sales Training West,Azure Basics,Cloud,not_started,14,,1.2,2025-10-11,2025-09-14,2026-01-13
+U1214,Spain,Sales Training East,Python for Business,Analytics,in_progress,79,,3.7,2025-10-02,2025-09-27,2026-01-13
+U1215,France,Digital Learning,Power BI Fundamentals,Analytics,in_progress,27,,4.4,2025-10-14,2025-10-09,2026-01-13
+U1216,France,Sales Training East,Leadership 101,Management,completed,98,2025-10-27,10.0,2025-10-26,2025-10-25,2026-01-13
+U1217,Spain,Operations Academy,Python for Business,Analytics,in_progress,53,,4.2,2025-12-29,2025-11-17,2026-01-13
+U1218,Spain,Digital Learning,Leadership 101,Management,completed,98,2026-01-08,13.6,2025-12-31,2025-11-27,2026-01-13
+U1219,Netherlands,Leadership Programs,Data Storytelling,Analytics,in_progress,71,,7.7,2025-11-21,2025-10-13,2026-01-13
+U1220,Spain,Digital Learning,Leadership 101,Management,completed,95,2025-10-28,10.7,2025-10-19,2025-10-16,2026-01-13
+U1221,Italy,Operations Academy,Azure Basics,Cloud,not_started,4,,0.1,2025-12-28,2025-12-14,2026-01-13
+U1222,Spain,Sales Training West,Azure Basics,Cloud,not_started,5,,1.4,2025-11-17,2025-10-15,2026-01-13
+U1223,France,Operations Academy,Python for Business,Analytics,completed,96,2026-01-07,8.8,2025-12-30,2025-12-05,2026-01-13
+U1224,France,Sales Training West,Data Storytelling,Analytics,not_started,5,,0.2,2025-09-29,2025-09-08,2026-01-13
+U1225,France,Sales Training West,Compliance Essentials,Compliance,in_progress,43,,7.6,2025-10-22,2025-10-21,2026-01-13
+U1226,Italy,Digital Learning,Compliance Essentials,Compliance,completed,97,2026-01-03,9.0,2025-12-30,2025-12-11,2026-01-13
+U1227,Germany,Operations Academy,Compliance Essentials,Compliance,completed,96,2025-11-06,14.4,2025-10-30,2025-10-25,2026-01-13
+U1228,France,Sales Training West,Compliance Essentials,Compliance,in_progress,49,,7.3,2025-12-23,2025-11-21,2026-01-13
+U1229,Netherlands,Leadership Programs,Python for Business,Analytics,completed,96,2025-12-10,,2025-12-07,2025-11-13,2026-01-13
+U1230,Spain,Sales Training West,Compliance Essentials,Compliance,in_progress,74,,3.7,2025-10-06,2025-09-12,2026-01-13
+U1231,Italy,Sales Training West,Leadership 101,Management,completed,99,2025-11-06,5.7,2025-11-03,2025-10-03,2026-01-13
+U1232,France,Sales Training West,Python for Business,Analytics,not_started,2,,0.5,2025-10-25,2025-09-20,2026-01-13
+U1233,Germany,Sales Training West,Azure Basics,Cloud,not_started,4,,0.1,2026-01-15,2025-12-10,2026-01-13
+U1234,Italy,Digital Learning,Power BI Fundamentals,Analytics,completed,99,2026-01-15,20.4,2026-01-08,2025-12-02,2026-01-13
+U1235,Netherlands,Operations Academy,Data Storytelling,Analytics,in_progress,64,,7.3,2025-11-15,2025-10-07,2026-01-13
+U1236,France,Sales Training West,Data Storytelling,Analytics,completed,98,2025-12-06,7.0,2025-11-30,2025-11-10,2026-01-13
+U1237,Spain,Sales Training East,Compliance Essentials,Compliance,not_started,1,,1.4,2025-09-20,2025-09-18,2026-01-13
+U1238,Germany,Leadership Programs,Python for Business,Analytics,in_progress,24,,5.2,2025-11-01,2025-10-31,2026-01-13
+U1239,Italy,Operations Academy,Data Storytelling,Analytics,not_started,12,,0.1,2025-10-06,2025-09-02,2026-01-13
+U1240,France,Operations Academy,Data Storytelling,Analytics,completed,99,2025-11-08,9.5,2025-11-06,2025-09-30,2026-01-13
+U1241,Netherlands,Sales Training West,Compliance Essentials,Compliance,in_progress,63,,7.2,2025-12-20,2025-12-03,2026-01-13
+U1242,Italy,Leadership Programs,Leadership 101,Management,completed,100,2025-12-05,13.4,2025-11-30,2025-11-11,2026-01-13
+U1243,Germany,Sales Training West,Data Storytelling,Analytics,completed,95,2025-12-08,4.9,2025-12-02,2025-11-23,2026-01-13
+U1244,Netherlands,Leadership Programs,Azure Basics,Cloud,completed,97,2025-11-13,8.8,2025-11-09,2025-10-08,2026-01-13
+U1245,France,Operations Academy,Azure Basics,Cloud,in_progress,30,,3.2,2025-12-19,2025-11-14,2026-01-13
+U1246,Netherlands,Sales Training East,Compliance Essentials,Compliance,not_started,2,,0.3,2025-12-25,2025-11-21,2026-01-13
+U1247,France,Sales Training West,Azure Basics,Cloud,completed,96,2026-02-05,,2026-02-01,2025-12-22,2026-01-13
+U1248,Germany,Sales Training West,Power BI Fundamentals,Analytics,not_started,11,,1.8,2025-11-18,2025-10-20,2026-01-13
+U1249,Italy,Sales Training West,Power BI Fundamentals,Analytics,not_started,9,,0.8,2025-12-21,2025-11-17,2026-01-13
+U1250,Italy,Sales Training West,Leadership 101,Management,completed,97,2025-10-11,7.4,2025-10-09,2025-09-21,2026-01-13
+U1251,France,Sales Training West,Python for Business,Analytics,in_progress,42,,4.2,2025-11-08,2025-10-11,2026-01-13
+U1252,France,Sales Training East,Power BI Fundamentals,Analytics,not_started,12,,1.1,2025-11-18,2025-10-24,2026-01-13
+U1253,Spain,Digital Learning,Compliance Essentials,Compliance,completed,96,2025-10-02,8.3,2025-09-26,2025-09-15,2026-01-13
+U1254,Germany,Operations Academy,Python for Business,Analytics,completed,97,2025-10-03,,2025-09-28,2025-09-25,2026-01-13
+U1255,Netherlands,Sales Training West,Azure Basics,Cloud,in_progress,35,,2.5,2025-11-25,2025-10-29,2026-01-13
+U1256,Spain,Operations Academy,Python for Business,Analytics,completed,95,2025-11-27,10.1,2025-11-23,2025-11-22,2026-01-13
+U1257,Germany,Sales Training West,Compliance Essentials,Compliance,not_started,12,,1.1,2025-11-28,2025-11-05,2026-01-13
+U1258,Spain,Sales Training East,Leadership 101,Management,not_started,8,,0.1,2025-11-18,2025-11-10,2026-01-13
+U1259,Netherlands,Digital Learning,Leadership 101,Management,completed,100,2025-12-08,11.4,2025-11-30,2025-11-03,2026-01-13
+U1260,Germany,Digital Learning,Data Storytelling,Analytics,not_started,9,,1.6,2025-09-22,2025-09-01,2026-01-13
+U1261,Netherlands,HR Learning,Python for Business,Analytics,not_started,5,,1.2,2025-10-21,2025-09-16,2026-01-13
+U1262,Germany,Digital Learning,Python for Business,Analytics,in_progress,67,,3.9,2026-01-27,2025-12-16,2026-01-13
+U1263,Netherlands,Sales Training East,Leadership 101,Management,in_progress,71,,4.4,2026-01-10,2025-12-14,2026-01-13
+U1264,France,Digital Learning,Data Storytelling,Analytics,completed,100,2026-01-12,11.8,2026-01-09,2025-12-03,2026-01-13
+U1265,Italy,Digital Learning,Azure Basics,Cloud,in_progress,58,,3.0,2025-10-24,2025-10-11,2026-01-13
+U1266,Italy,Leadership Programs,Python for Business,Analytics,not_started,2,,1.2,2025-10-31,2025-10-31,2026-01-13
+U1267,Netherlands,Sales Training East,Power BI Fundamentals,Analytics,not_started,7,,1.2,2025-12-04,2025-11-03,2026-01-13
+U1268,Netherlands,Sales Training East,Azure Basics,Cloud,not_started,2,,1.3,2026-01-12,2025-12-23,2026-01-13
+U1269,France,HR Learning,Python for Business,Analytics,completed,95,2025-11-18,3.3,2025-11-14,2025-10-14,2026-01-13
+U1270,Germany,Leadership Programs,Compliance Essentials,Compliance,not_started,13,,0.0,2026-01-14,2025-12-09,2026-01-13
+U1271,Germany,Sales Training West,Azure Basics,Cloud,in_progress,31,,2.4,2025-09-24,2025-09-24,2026-01-13
+U1272,Germany,Operations Academy,Azure Basics,Cloud,not_started,5,,1.0,2025-10-27,2025-09-26,2026-01-13
+U1273,Netherlands,Leadership Programs,Compliance Essentials,Compliance,in_progress,39,,5.9,2026-01-06,2025-11-26,2026-01-13
+U1274,Germany,Operations Academy,Compliance Essentials,Compliance,completed,95,2025-10-26,2.8,2025-10-25,2025-09-21,2026-01-13
+U1275,Spain,Sales Training West,Data Storytelling,Analytics,completed,99,2025-10-11,6.8,2025-10-10,2025-09-01,2026-01-13
+U1276,Netherlands,Sales Training East,Data Storytelling,Analytics,completed,97,2025-10-11,10.1,2025-10-02,2025-09-07,2026-01-13
+U1277,Spain,HR Learning,Leadership 101,Management,completed,97,2025-10-20,10.2,2025-10-13,2025-09-24,2026-01-13
+U1278,Germany,HR Learning,Data Storytelling,Analytics,in_progress,53,,4.9,2026-01-07,2025-12-04,2026-01-13
+U1279,France,HR Learning,Power BI Fundamentals,Analytics,in_progress,71,,5.8,2025-10-20,2025-10-16,2026-01-13
+U1280,France,Leadership Programs,Power BI Fundamentals,Analytics,in_progress,35,,3.9,2025-10-02,2025-09-19,2026-01-13
+U1281,Italy,Sales Training East,Python for Business,Analytics,not_started,6,,1.1,2025-12-06,2025-11-18,2026-01-13
+U1282,Germany,HR Learning,Azure Basics,Cloud,completed,99,2025-10-02,8.7,2025-09-23,2025-09-12,2026-01-13
+U1283,Spain,Operations Academy,Azure Basics,Cloud,completed,100,2025-12-05,13.9,2025-11-28,2025-10-31,2026-01-13
+U1284,Italy,Sales Training West,Azure Basics,Cloud,not_started,7,,1.3,2025-10-30,2025-10-16,2026-01-13
+U1285,Italy,Sales Training East,Azure Basics,Cloud,not_started,1,,1.0,2026-01-04,2025-12-18,2026-01-13
+U1286,Spain,Sales Training East,Compliance Essentials,Compliance,completed,97,2025-12-13,11.8,2025-12-12,2025-11-12,2026-01-13
+U1287,Netherlands,HR Learning,Python for Business,Analytics,not_started,13,,1.5,2026-01-18,2025-12-05,2026-01-13
+U1288,Italy,Sales Training West,Compliance Essentials,Compliance,completed,100,2025-12-01,6.9,2025-11-25,2025-10-17,2026-01-13
+U1289,France,Operations Academy,Compliance Essentials,Compliance,in_progress,54,,7.0,2026-01-16,2025-12-26,2026-01-13
+U1290,Spain,Leadership Programs,Data Storytelling,Analytics,in_progress,83,,2.0,2025-10-22,2025-09-17,2026-01-13
+U1291,Germany,Sales Training East,Compliance Essentials,Compliance,completed,96,2025-10-22,15.6,2025-10-17,2025-09-11,2026-01-13
+U1292,France,Operations Academy,Azure Basics,Cloud,not_started,10,,0.3,2025-12-24,2025-12-21,2026-01-13
+U1293,Italy,Sales Training West,Power BI Fundamentals,Analytics,completed,100,2025-12-01,8.0,2025-11-22,2025-11-10,2026-01-13
+U1294,Spain,Leadership Programs,Python for Business,Analytics,completed,98,2025-12-10,6.0,2025-12-04,2025-11-18,2026-01-13
+U1295,Italy,Sales Training East,Leadership 101,Management,completed,96,2025-10-22,7.8,2025-10-16,2025-10-15,2026-01-13
+U1296,Netherlands,Sales Training East,Leadership 101,Management,completed,97,2025-11-13,3.9,2025-11-04,2025-10-13,2026-01-13
+U1297,Germany,Sales Training East,Azure Basics,Cloud,completed,97,2025-11-17,5.5,2025-11-09,2025-10-11,2026-01-13
+U1298,Spain,Sales Training West,Python for Business,Analytics,completed,98,2025-11-29,10.1,2025-11-25,2025-11-20,2026-01-13
+U1299,France,Digital Learning,Azure Basics,Cloud,completed,98,2025-11-30,5.7,2025-11-21,2025-11-12,2026-01-13
+U1300,Netherlands,Sales Training East,Power BI Fundamentals,Analytics,not_started,7,,,2025-12-06,2025-11-07,2026-01-13
+U1301,France,HR Learning,Azure Basics,Cloud,not_started,5,,0.6,2025-11-07,2025-10-25,2026-01-13
+U1302,Germany,Digital Learning,Compliance Essentials,Compliance,completed,100,2025-09-26,11.4,2025-09-20,2025-09-10,2026-01-13
+U1303,France,Digital Learning,Python for Business,Analytics,not_started,9,,0.8,2025-12-02,2025-11-16,2026-01-13
+U1304,Spain,Sales Training West,Compliance Essentials,Compliance,not_started,1,,2.0,2025-12-14,2025-11-26,2026-01-13
+U1305,Netherlands,HR Learning,Data Storytelling,Analytics,not_started,7,,1.2,2025-12-26,2025-11-23,2026-01-13
+U1306,France,HR Learning,Azure Basics,Cloud,not_started,4,,0.4,2025-10-30,2025-09-21,2026-01-13
+U1307,Netherlands,Digital Learning,Power BI Fundamentals,Analytics,not_started,9,,1.9,2025-11-22,2025-10-26,2026-01-13
+U1308,Germany,Sales Training East,Python for Business,Analytics,not_started,6,,2.0,2025-09-22,2025-09-02,2026-01-13
+U1309,France,Digital Learning,Python for Business,Analytics,completed,100,2025-11-11,19.4,2025-11-09,2025-10-11,2026-01-13
+U1310,Netherlands,Sales Training East,Data Storytelling,Analytics,not_started,5,,1.3,2026-01-19,2025-12-14,2026-01-13
+U1311,France,Leadership Programs,Python for Business,Analytics,completed,96,2025-12-08,9.0,2025-12-01,2025-11-24,2026-01-13
+U1312,France,Leadership Programs,Power BI Fundamentals,Analytics,in_progress,20,,4.3,2025-11-07,2025-11-07,2026-01-13
+U1313,France,Sales Training East,Data Storytelling,Analytics,in_progress,62,,6.1,2025-09-20,2025-09-03,2026-01-13
+U1314,Netherlands,Sales Training East,Compliance Essentials,Compliance,completed,95,2025-12-22,12.2,2025-12-17,2025-11-19,2026-01-13
+U1315,France,HR Learning,Data Storytelling,Analytics,completed,97,2025-10-28,6.8,2025-10-22,2025-10-17,2026-01-13
+U1316,France,Digital Learning,Azure Basics,Cloud,not_started,1,,0.0,2025-10-12,2025-10-07,2026-01-13
+U1317,Spain,Operations Academy,Azure Basics,Cloud,completed,97,2025-11-10,3.4,2025-11-06,2025-10-06,2026-01-13
+U1318,Germany,Digital Learning,Data Storytelling,Analytics,not_started,9,,0.3,2025-09-27,2025-09-11,2026-01-13
+U1319,Italy,Digital Learning,Azure Basics,Cloud,not_started,12,,1.1,2025-10-10,2025-09-20,2026-01-13
+U1320,Spain,Sales Training West,Python for Business,Analytics,not_started,1,,0.5,2025-12-18,2025-11-20,2026-01-13
+U1321,Netherlands,Digital Learning,Compliance Essentials,Compliance,completed,95,2025-10-29,15.3,2025-10-27,2025-09-17,2026-01-13
+U1322,Netherlands,Operations Academy,Python for Business,Analytics,in_progress,26,,5.7,2025-11-05,2025-10-31,2026-01-13
+U1323,Italy,HR Learning,Power BI Fundamentals,Analytics,completed,99,2025-10-07,6.9,2025-10-01,2025-09-12,2026-01-13
+U1324,Netherlands,Operations Academy,Azure Basics,Cloud,completed,98,2025-11-02,9.4,2025-10-25,2025-10-08,2026-01-13
+U1325,Italy,Leadership Programs,Compliance Essentials,Compliance,not_started,6,,0.0,2025-10-08,2025-09-13,2026-01-13
+U1326,France,Sales Training East,Azure Basics,Cloud,in_progress,45,,1.5,2025-10-09,2025-09-22,2026-01-13
+U1327,Germany,Leadership Programs,Data Storytelling,Analytics,in_progress,50,,6.7,2025-11-17,2025-10-06,2026-01-13
+U1328,Germany,Leadership Programs,Azure Basics,Cloud,in_progress,77,,1.8,2025-10-18,2025-09-30,2026-01-13
+U1329,Netherlands,Sales Training West,Python for Business,Analytics,completed,97,2025-10-22,20.8,2025-10-19,2025-09-22,2026-01-13
+U1330,Germany,Sales Training West,Compliance Essentials,Compliance,in_progress,74,,3.4,2025-11-27,2025-11-27,2026-01-13
+U1331,Spain,Leadership Programs,Python for Business,Analytics,not_started,8,,0.3,2025-12-08,2025-11-27,2026-01-13
+U1332,Netherlands,Sales Training East,Data Storytelling,Analytics,in_progress,46,,4.6,2025-11-16,2025-11-11,2026-01-13
+U1333,Netherlands,Sales Training East,Compliance Essentials,Compliance,completed,98,2025-11-13,5.8,2025-11-07,2025-09-29,2026-01-13
+U1334,Spain,Digital Learning,Power BI Fundamentals,Analytics,completed,98,2025-09-12,4.9,2025-09-09,2025-09-08,2026-01-13
+U1335,Germany,Digital Learning,Python for Business,Analytics,completed,99,2025-10-07,7.1,2025-10-06,2025-09-13,2026-01-13
+U1336,Germany,Sales Training East,Compliance Essentials,Compliance,not_started,4,,1.2,2025-10-04,2025-09-13,2026-01-13
+U1337,Italy,HR Learning,Python for Business,Analytics,completed,97,2026-01-07,10.0,2026-01-02,2025-12-14,2026-01-13
+U1338,France,Sales Training East,Data Storytelling,Analytics,completed,96,2025-11-05,5.5,2025-10-31,2025-10-05,2026-01-13
+U1339,Italy,Operations Academy,Power BI Fundamentals,Analytics,in_progress,83,,8.0,2025-12-21,2025-11-25,2026-01-13
+U1340,Germany,Digital Learning,Python for Business,Analytics,completed,95,2025-10-04,11.4,2025-09-28,2025-09-04,2026-01-13
+U1341,France,Sales Training West,Azure Basics,Cloud,not_started,7,,1.0,2025-10-22,2025-10-02,2026-01-13
+U1342,France,Sales Training East,Power BI Fundamentals,Analytics,not_started,0,,1.6,2026-01-09,2025-12-14,2026-01-13
+U1343,Spain,Operations Academy,Leadership 101,Management,not_started,13,,0.8,2026-01-01,2025-12-12,2026-01-13
+U1344,Germany,Operations Academy,Leadership 101,Management,not_started,14,,0.4,2025-12-03,2025-11-30,2026-01-13
+U1345,France,Leadership Programs,Python for Business,Analytics,completed,96,2025-12-02,9.2,2025-12-01,2025-11-11,2026-01-13
+U1346,Germany,Sales Training West,Leadership 101,Management,not_started,1,,1.9,2025-09-28,2025-09-25,2026-01-13
+U1347,Germany,Digital Learning,Leadership 101,Management,not_started,9,,1.9,2026-01-12,2025-12-26,2026-01-13
+U1348,France,Leadership Programs,Leadership 101,Management,not_started,2,,1.2,2025-09-22,2025-09-10,2026-01-13
+U1349,Netherlands,Sales Training West,Power BI Fundamentals,Analytics,not_started,9,,0.0,2026-01-04,2025-11-27,2026-01-13

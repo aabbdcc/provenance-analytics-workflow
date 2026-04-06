@@ -1,0 +1,139 @@
+{
+  "run_id": "run_aggregate_v1",
+  "timestamp": "2026-04-07T02:06:20",
+  "workflow_name": "learning_reporting_aggregation",
+  "workflow_version": "v1.0",
+  "dataset_version": "2026-01-05",
+  "input_files": [
+    "sample_learning_data.csv"
+  ],
+  "steps": [
+    {
+      "step_name": "load_and_preprocess_dataset",
+      "step_type": "transformation",
+      "timestamp": "2026-04-07T02:06:20",
+      "input_files": [
+        "sample_learning_data.csv"
+      ],
+      "output_files": [],
+      "parameters": {
+        "derived_columns": [
+          "is_completed",
+          "is_active",
+          "hours_missing"
+        ]
+      },
+      "row_count_in": null,
+      "row_count_out": 350,
+      "observations": {
+        "dataset_version": "2026-01-05"
+      }
+    },
+    {
+      "step_name": "aggregate_country_metrics",
+      "step_type": "aggregation",
+      "timestamp": "2026-04-07T02:06:20",
+      "input_files": [
+        "sample_learning_data.csv"
+      ],
+      "output_files": [
+        "v1_country_metrics.csv"
+      ],
+      "parameters": {
+        "group_by": "country"
+      },
+      "row_count_in": 350,
+      "row_count_out": 5,
+      "observations": {
+        "lowest_country": "Netherlands",
+        "lowest_country_completion_rate": 0.40298507462686567
+      }
+    },
+    {
+      "step_name": "aggregate_department_metrics",
+      "step_type": "aggregation",
+      "timestamp": "2026-04-07T02:06:20",
+      "input_files": [
+        "sample_learning_data.csv"
+      ],
+      "output_files": [
+        "v1_department_metrics.csv"
+      ],
+      "parameters": {
+        "group_by": "department"
+      },
+      "row_count_in": 350,
+      "row_count_out": 6,
+      "observations": {
+        "lowest_department": "Operations Academy",
+        "lowest_department_completion_rate": 0.3684210526315789
+      }
+    },
+    {
+      "step_name": "aggregate_course_metrics",
+      "step_type": "aggregation",
+      "timestamp": "2026-04-07T02:06:20",
+      "input_files": [
+        "sample_learning_data.csv"
+      ],
+      "output_files": [
+        "v1_course_metrics.csv"
+      ],
+      "parameters": {
+        "group_by": "course_name"
+      },
+      "row_count_in": 350,
+      "row_count_out": 6,
+      "observations": {
+        "lowest_course": "Python for Business",
+        "lowest_course_completion_rate": 0.3404255319148936
+      }
+    },
+    {
+      "step_name": "extract_top_anomalies",
+      "step_type": "inspection",
+      "timestamp": "2026-04-07T02:06:20",
+      "input_files": [
+        "v1_country_metrics.csv",
+        "v1_department_metrics.csv",
+        "v1_course_metrics.csv"
+      ],
+      "output_files": [
+        "v1_top_anomalies.csv"
+      ],
+      "parameters": {
+        "selection_rule": "lowest completion rate per dimension"
+      },
+      "row_count_in": 17,
+      "row_count_out": 3,
+      "observations": {
+        "top_anomalies_count": 3
+      }
+    },
+    {
+      "step_name": "save_aggregation_outputs",
+      "step_type": "export",
+      "timestamp": "2026-04-07T02:06:20",
+      "input_files": [
+        "sample_learning_data.csv"
+      ],
+      "output_files": [
+        "v1_country_metrics.csv",
+        "v1_department_metrics.csv",
+        "v1_course_metrics.csv",
+        "v1_top_anomalies.csv",
+        "v1_overall_summary.csv"
+      ],
+      "parameters": {
+        "output_dir": "outputs"
+      },
+      "row_count_in": 350,
+      "row_count_out": null,
+      "observations": {
+        "completion_rate": 0.48,
+        "active_learner_ratio": 0.7285714285714285,
+        "missing_hours_ratio": 0.045714285714285714
+      }
+    }
+  ]
+}
